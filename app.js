@@ -8,7 +8,7 @@ const data = [
     id: 1,
     name: "Iphone 14",
     price: "$1000",
-    img: "https://mercadositio.com/ficha-1664-apple-iphone-14-pro-max#gallery-1",
+    img: "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltaf5a1524f0c76fe6/6319db03c1a0e62da40cec60/Carousel_iPhone14_Purple_Placement01-PreOrder.png",
   },
 
   {
